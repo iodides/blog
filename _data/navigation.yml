@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Blog"
-    url: /categories/blog/
+    url: /categories/Blog/
   - title: "Category"
     url: /categories/
   - title: "Quick-Start Guide"

@@ -14,10 +14,10 @@ _pages 폴더에 적당한 이름으로 md 파일을 생성한다. _pages 폴더
 ```yml
 ---
 title: "블로그 설정"
-permalink: /categories/blog/
+permalink: /categories/Blog/
 layout: category
 author_profile: true
-taxonomy: blog
+taxonomy: Blog
 ---
 ```
 - title : 적당히 이름 적는다.
@@ -32,7 +32,7 @@ taxonomy: blog
 ```yml
 main:
   - title: "Blog"
-    url: /categories/blog/
+    url: /categories/Blog/
 ```
 main 항목 안쪽에 추가한다.
 - title : 메뉴바에 표시될 이름

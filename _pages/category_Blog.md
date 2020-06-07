@@ -1,7 +1,7 @@
 ---
 title: "블로그 설정"
-permalink: /categories/blog/
+permalink: /categories/Blog/
 layout: category
 author_profile: true
-taxonomy: blog
+taxonomy: Blog
 ---
